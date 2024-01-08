@@ -1,0 +1,309 @@
+/* font 1 */
+
+/* font-family: 'Merriweather', serif; */
+
+/* font 2 */
+/* font-family: 'Inter', sans-serif;  */
+
+
+
+/* banner style */
+nav {
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("B9A1-New-Year-New-Mission/resources/Banner\ Image.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 50px 0px;
+    background-position: center;
+
+
+}
+
+.header-title {
+    text-align: center;
+    padding: 120px 30%;
+
+    position: center;
+}
+
+.title-1 {
+    color: white;
+    font-family: 'Merriweather', serif;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 0;
+}
+
+.title-2 {
+    color: #FFF;
+    padding-top: 0;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 50px;
+}
+
+/* main section style */
+.title-off {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.off {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 72px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+
+.off-desc {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 2px;
+}
+
+.title {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.new-year {
+    max-width: 550px;
+}
+
+/* section 2 design */
+.welcome-sec {
+    background-image: linear-gradient(#070211, #07021100), url('B9A1-New-Year-New-Mission/resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-size: 1000px 500px;
+    background-position: center;
+    margin: 100px;
+    border-radius: 20px;
+
+
+}
+
+.welcome-title {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 54px;
+    max-width: 600px;
+    font-weight: 900;
+    line-height: 70px;
+    letter-spacing: 7.04px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.welcome-desc {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    max-width: 650px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 0px;
+}
+
+.welcome {
+    padding: 100px 0 200px 140px;
+
+}
+
+.join {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: gold;
+    border: 0;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+/* section 3 style */
+.place-sec {
+    width: 1000px;
+    height: 350px;
+    margin: 100px auto;
+    border-radius: 20px;
+    background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    ;
+}
+
+.date-time {
+    text-align: center;
+    padding-top: 100px;
+    line-height: 30px;
+}
+
+.red {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+
+}
+
+.join-now {
+    background-color: #f00;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+
+/* section 4 design */
+.soon-container {
+    max-width: 1000px;
+    display: flex;
+    gap: 70px 30px;
+    margin: 0 auto;
+}
+
+.cap-1 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 18px;
+    padding-bottom: 0;
+    padding-top: 50px;
+    margin-top: 0;
+}
+
+.cap-2 {
+    color: #070211;
+    padding-top: 0;
+
+    font-family: Merriweather;
+    font-size: 32px;
+}
+
+.offer-desc {
+    color: rgba(7, 2, 17, 0.60);
+
+    font-family: Inter;
+    font-size: 16px;
+}
+
+
+.ellipse {
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 20px;
+    max-width: 300px;
+}
+
+.right-div {
+    text-align: left;
+
+}
+
+.sal {
+
+    color: #F00;
+    margin-top: 50px;
+    margin-bottom: 0;
+
+    font-family: Inter;
+    font-size: 38px;
+}
+
+.sal-desc {
+    color: rgba(7, 2, 17, 0.60);
+
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.right-bottom {
+    width: 150px;
+}
+
+/* section 5 style */
+
+.portfulio {
+    max-width: 1000px;
+    margin-top: 100px;
+    margin: 120px auto;
+}
+
+.gift-title-1 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    padding-top: 500px;
+    margin: 0;
+    padding: 0;
+}
+
+.gift-title-2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    margin: 0;
+    padding: 0;
+}
+
+.gift-desc {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+}
+
+.gift-img img {
+    width: 300px;
+    display: inline;
+    padding: 10px;
+
+}
+
+/* section 5 style */
+.subscribe-sec {
+    max-width: 1000px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.subs-img {
+    max-width: 120px;
+    max-height: 120px;
+}
+
+.subs-title {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.subs-desc {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    max-width: 700px;
+    padding: 0px 150px;
+}
+.input-subs{
+    
+}
