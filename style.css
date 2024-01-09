@@ -17,8 +17,6 @@ nav {
     background-position: center;
     margin: 0 auto;
     margin-top: 100px;
-
-
 }
 
 .header-title {
@@ -271,7 +269,7 @@ nav {
     background-size: 300px, 100% 198px;
     margin: 0 auto;
     margin-top: 100px;
-    
+
 }
 
 .holi-title {
@@ -287,47 +285,54 @@ nav {
     padding-top: 0;
     margin: 0;
 }
-.holi-title-2{
+
+.holi-title-2 {
     color: #070211;
-font-family: Merriweather;
-font-size: 62px;
-margin: 0px;
-padding: 0;
+    font-family: Merriweather;
+    font-size: 62px;
+    margin: 0px;
+    padding: 0;
 }
-.holi-red{
+
+.holi-red {
     color: #F00;
 
-text-align: center;
-font-family: Merriweather;
-font-size: 62px;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 62px;
 }
-.holi-desc{
+
+.holi-desc {
     color: rgba(7, 2, 17, 0.60);
 
-text-align: center;
-font-family: Inter;
-font-size: 16px;
-padding-bottom: 700px;
-padding: 0;
-margin: 0;
-padding-top: 20px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    padding-bottom: 700px;
+    padding: 0;
+    margin: 0;
+    padding-top: 20px;
 
 }
-.holi-img{
+
+.holi-img {
     display: flex;
     justify-content: space-around;
     /* gap: 100px; */
 }
-#holi-left{
+
+#holi-left {
     width: 500px;
     margin-right: 50px;
 }
-#holi-right{
+
+#holi-right {
     width: 200px;
     /* padding: 50px 100px 0 0; */
     margin-right: 140px;
     margin-top: 100px;
 }
+
 /* section 5 style */
 
 .portfulio {
